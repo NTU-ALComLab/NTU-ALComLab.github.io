@@ -1,0 +1,140 @@
+const data = {
+    "news": [
+        {
+            "date": "2025/02/06",
+            "info": "Congrats to Bo-Hung Chen (陳柏宏), Yu-Hung Pan (盤禹宏), and Tian-Fu Chen (陳天富) for earning 2024 AMD Design Contest 人工智慧終端節點運算創意競賽優勝."
+        },
+        {
+            "date": "2024/11/28",
+            "info": "Congrats to Yu-Wei Fan (范育瑋) for earning 中華民國人工智慧學會碩士論文佳作獎."
+        },
+        {
+            "date": "2024/11/26",
+            "info": "Congrats to Long-Hin Fung (馮朗軒), Che Cheng (鄭澈), and Yu-Wei Fan (范育瑋) for earning Best Paper Award in 2024 FMCAD."
+        },
+        {
+            "date": "2024/10/31",
+            "info": "Congrats to Hsin-Ying Tsai (蔡心櫻), Shao-Jui Wu (吳紹睿),  Mu-Yao Chung (衷慕堯), Tian-Fu Chen (陳天富), Jiun-Hao Chen (陳均豪), and Yu-Hung Pan (盤禹宏) for earning Honorable Mentions of Problem C in the 2024 ICCAD Contest."
+        },
+        {
+            "date": "2024/09/11",
+            "info": "Congrats to Yu-Hao Ko (柯昱豪) and Chih-Cheng Hsu (許志誠) for earning 1st place in the 2024 domestic CADathlon."
+        },
+        {
+            "date": "2024/08/12",
+            "info": "Paper on \"2-DQBF Solving and Certification via Property-Directed Reachability Analysis\" accepted by the 2024 Formal Methods in Computer-Aided Design (FMCAD 2024)."
+        },
+        {
+            "date": "2024/07/15",
+            "info": "Paper on \"A Holistic Approach to Rotation Synthesis for Fault-Tolerant Quantum Computation\" accepted by the 2024 IEEE International Conference on Quantum Computing and Engineering (QCE 2024)."
+        },
+        {
+            "date": "2024/06/30",
+            "info": "Paper on \"Accelerating Quantum Circuit Simulation with Symbolic Execution and Loop Summarization\" published in the 2024 IEEE/ACM International Conference on Computer Aided Design (ICCAD)."
+        },
+        {
+            "date": "2024/06/08",
+            "info": "Congrats to Yu-Hao Ko (柯昱豪) and Shao-Jui Wu (吳紹睿) for earning 2nd place in the 2024 IWLS Programming Contest."
+        },
+        {
+            "date": "2024/05/03",
+            "info": "Paper on \"Elevating Boolean Matching to the Word Level\" accepted by the 2024 International Workshop on Logic and Synthesis (IWLS 2024)."
+        },
+        {
+            "date": "2024/05/03",
+            "info": "Paper on \"Recovering Hierarchical Boundaries in a Gate-Level Netlist\" accepted by the 2024 International Workshop on Logic and Synthesis (IWLS 2024)."
+        },
+        {
+            "date": "2024/03/15",
+            "info": "Paper on \"Satisfiability Modulo Theories-Based Qubit Mapping for Trapped-Ion Quantum Computing Systems\" accepted by the 2024 International Symposium on Physical Design (ISPD 2024)."
+        },
+        {
+            "date": "2024/02/27",
+            "info": "Paper on \"Boolean Matching Reversible Circuits: Algorithm and Complexity\" accepted by the Design Automation Conference (DAC-24)."
+        },
+        {
+            "date": "2023/12/15",
+            "info": "Congrats to Tian-Fu Chen (陳天富) for earning the 2023 Hon Hai Technology Award (鴻海科技獎)."
+        },
+        {
+            "date": "2023/12/10",
+            "info": "Paper on \"Unifying Decision and Function Queries in Stochastic Boolean Satisfiability\" accepted by the 38th Annual AAAI Conference on Artificial Intelligence (AAAI-24)."
+        },
+        {
+            "date": "2023/11/30",
+            "info": "Paper on \"VanQiRA: A Vanishing-State-Based Framework for Quantum Circuit Runtime Assertion\" published in 2023 IEEE International Conference on Quantum Computing and Engineering (QCE)."
+        },
+        {
+            "date": "2023/11/30",
+            "info": "Paper on \"WolFEx: Word-Level Function Extraction and Simplification from Gate-Level Arithmetic Circuits\" published in 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD)."
+        },
+        {
+            "date": "2023/09/15",
+            "info": "Paper on \"Don't-Care Aware ESOP Extraction via Reduced Decomposition-Tree Exploration\" published in 2023 60th ACM/IEEE Design Automation Conference (DAC)."
+        },
+        {
+            "date": "2023/06/26",
+            "info": "Paper on \"Second-Order Quantified Boolean Logic\" published in Proceedings of the AAAI Conference on Artificial Intelligence 2023 (AAAI-23)."
+        },
+        {
+            "date": "2023/06/26",
+            "info": "Paper on \"SharpSSAT: A Witness-Generating Stochastic Boolean Satisfiability Solver\" published in Proceedings of the AAAI Conference on Artificial Intelligence 2023 (AAAI-23)."
+        },
+        {
+            "date": "2023/06/26",
+            "info": "Paper on \"Lifting (D)QBF Preprocessing and Solving Techniques to (D)SSAT\" published in Proceedings of the AAAI Conference on Artificial Intelligence 2023 (AAAI-23)."
+        },
+        {
+            "date": "2023/05/04",
+            "info": "Paper on \"A Resolution Proof System for Dependency Stochastic Boolean Satisfiability\" accepted by Journal of Automated Reasoning."
+        },
+        {
+            "date": "2023/03/17",
+            "info": "Paper on \"Circuit Learning: From Decision Trees to Decision Graphs\" published in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) 2023."
+        },
+        {
+            "date": "2022/12/22",
+            "info": "Paper on \"Language Equation Solving via Boolean Automata Manipulation\" published in Proceedings of the 41st IEEE/ACM International Conference on Computer-Aided Design (ICCAD'22)."
+        },
+        {
+            "date": "2022/11/22",
+            "info": "Paper on \"Partial Equivalence Checking of Quantum Circuits\" published in 2022 IEEE International Conference on Quantum Computing and Engineering (QCE)."
+        },
+        {
+            "date": "2022/11/06",
+            "info": "Paper on \"Reconfigurable Biochemical Circuit Synthesis from Biomachine Specification\" published in 2022 IEEE Biomedical Circuits and Systems Conference (BioCAS)."
+        },
+        {
+            "date": "2022/09/08",
+            "info": "Paper on \"Advances in Quantum Computation and Quantum Technologies: A Design Automation Perspective\" published in IEEE Journal on Emerging and Selected Topics in Circuits and Systems (2022)."
+        },
+        {
+            "date": "2022/09/08",
+            "info": "Paper on \"Design and Automation for Quantum Computation and Quantum Technologies\" published in IEEE Journal on Emerging and Selected Topics in Circuits and Systems (2022)."
+        },
+        {
+            "date": "2022/08/23",
+            "info": "Paper on \"Accurate BDD-based unitary operator manipulation for scalable and robust quantum circuit verification\" published in Proceedings of the 59th ACM/IEEE Design Automation Conference (DAC'22)."
+        },
+        {
+            "date": "2022/07/29",
+            "info": "Paper on \"Encoding Probabilistic Graphical Models into Stochastic Boolean Satisfiability\" published in Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence (IJCAI'22)."
+        },
+        {
+            "date": "2022/07/28",
+            "info": "Paper on \"Quantifier Elimination in Stochastic Boolean Satisfiability\" published in 25th International Conference on Theory and Applications of Satisfiability Testing (SAT 2022)."
+        },
+        {
+            "date": "2022/06/15",
+            "info": "Paper on \"Quantized Neural Network Synthesis for Direct Logic Circuit Implementation\" published in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) 2022."
+        },
+        {
+            "date": "2021/05/10",
+            "info": "Paper on \"Logic Synthesis of Binarized Neural Networks for Efficient Circuit Implementation\" published in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2022)."
+        },
+        {
+            "date": "2021/02/09",
+            "info": "Paper on \"Homing Sequence Derivation With Quantified Boolean Satisfiability\" published in IEEE Transactions on Computers (2022)."
+        }
+    ]
+}
