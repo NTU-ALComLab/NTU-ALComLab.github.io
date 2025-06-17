@@ -1,6 +1,14 @@
 const data = {
     "news": [
         {
+            "date": "2025/06/13",
+            "info": "Congrats to Jiun-Hao Chen (陳均豪) for earning the 1st in the 2025 IWLS Programming Contest."
+        },
+        {
+            "date": "2025/05/30",
+            "info": "Paper on \"Fine-Grained Complexity Analysis of Dependency Quantified Boolean Formulas\" accepted by the 2025 SAT Conference (SAT 2025)."
+        },
+        {
             "date": "2025/02/06",
             "info": "Congrats to Bo-Hung Chen (陳柏宏), Yu-Hung Pan (盤禹宏), and Tian-Fu Chen (陳天富) for earning 2024 AMD Design Contest 人工智慧終端節點運算創意競賽優勝."
         },
