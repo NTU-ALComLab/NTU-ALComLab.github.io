@@ -1,6 +1,10 @@
 const data = {
     "news": [
         {
+            "date": "2025/08/11",
+            "info": "Congrats to Tian-Fu Chen (陳天富) for earning 2nd place in the Best Paper Award at the 36th VLSI Design/CAD Symposium."
+        },
+        {
             "date": "2025/06/13",
             "info": "Congrats to Jiun-Hao Chen (陳均豪) for earning the 1st in the 2025 IWLS Programming Contest."
         },
