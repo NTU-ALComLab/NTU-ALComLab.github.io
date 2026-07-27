@@ -1,6 +1,18 @@
 const data = {
     "news": [
         {
+            "date": "2026/07/11",
+            "info": "Paper on \"Toward Elevating Boolean Matching to the Word Level\" accepted by the 2026 IEEE/ACM International Conference on Computer Aided Design (ICCAD 2026)."
+        },
+        {
+            "date": "2026/07/06",
+            "info": "Paper on \"Adiabatic Quantum Simulation of the Topological Su–Schrieffer–Heeger–Hubbard Model\" accepted by the 2026 IEEE International Conference on Quantum Computing and Engineering (QCE 2026)."
+        },
+        {
+            "date": "2026/02/23",
+            "info": "Paper on \"Hierarchical Boundary Recovery: Overcoming Synthesis Obscurity via SAT Sweeping\" accepted by the 2026 Design Automation Conference (DAC 2026)."
+        },
+        {
             "date": "2025/11/07",
             "info": "Congrats to Hsin-Ying Tsai (蔡心櫻) for earning 中國電機工程學會114學年度青年論文獎第三名."
         },
