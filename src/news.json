@@ -1,6 +1,10 @@
 const data = {
     "news": [
         {
+            "date": "2026/07/25",
+            "info": "Paper on \"Fine-Grained Complexity Analysis of Dependency Quantified Boolean Formulas\" accepted by the Journal of Artificial Intelligence Research (JAIR)."
+        },
+        {
             "date": "2026/07/11",
             "info": "Paper on \"Toward Elevating Boolean Matching to the Word Level\" accepted by the 2026 IEEE/ACM International Conference on Computer Aided Design (ICCAD 2026)."
         },
@@ -13,6 +17,10 @@ const data = {
             "info": "Paper on \"Hierarchical Boundary Recovery: Overcoming Synthesis Obscurity via SAT Sweeping\" accepted by the 2026 Design Automation Conference (DAC 2026)."
         },
         {
+            "date": "2025/11/08",
+            "info": "Paper on \"Model Counting for Dependency Quantified Boolean Formulas\" accepted by the 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)."
+        },
+        {
             "date": "2025/11/07",
             "info": "Congrats to Hsin-Ying Tsai (蔡心櫻) for earning 中國電機工程學會114學年度青年論文獎第三名."
         },
@@ -22,11 +30,15 @@ const data = {
         },
         {
             "date": "2025/11/07",
-            "info": "Congrats to Che-Cheng (鄭澈) for earning the runner-up for the Best Student Paper Award at the 2025 SAT Conference (SAT 2025)."
+            "info": "Congrats to Che-Cheng (鄭澈) and Long-Hin Fung (馮朗軒) for earning the runner-up for the Best Student Paper Award at the 2025 SAT Conference (SAT 2025)."
         },
         {
             "date": "2025/08/11",
             "info": "Congrats to Tian-Fu Chen (陳天富) for earning 2nd place in the Best Paper Award at the 36th VLSI Design/CAD Symposium."
+        },
+        {
+            "date": "2025/07/01",
+            "info": "Paper on \"Unifying DQMax#SAT and DSSAT: Polynomial-Time Reduction and Applications\" accepted by the 25th Conference on Formal Methods in Computer-Aided Design (FMCAD 2025)."
         },
         {
             "date": "2025/06/13",
@@ -79,6 +91,10 @@ const data = {
         {
             "date": "2024/05/03",
             "info": "Paper on \"Recovering Hierarchical Boundaries in a Gate-Level Netlist\" accepted by the 2024 International Workshop on Logic and Synthesis (IWLS 2024)."
+        },
+        {
+            "date": "2024/04/16",
+            "info": "Paper on \"Knowledge Compilation for Incremental and Checkable Stochastic Boolean Satisfiability\" accepted by the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)."
         },
         {
             "date": "2024/03/15",
